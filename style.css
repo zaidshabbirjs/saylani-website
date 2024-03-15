@@ -169,7 +169,7 @@ body {
 .donate {
 
     border-radius: 20px;
-    width: 320px;
+    width: 392px;
     margin: 20px;
     position: relative;
     display: flex;
@@ -211,3 +211,6 @@ body {
     padding-right: 65px;
     border-radius: 10px; 
 }
+
+
+
