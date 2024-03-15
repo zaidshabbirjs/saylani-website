@@ -98,40 +98,116 @@ body {
     border: none;
 }
 
-.hero-1{
+.hero-1 {
     width: 50%;
     margin-top: 100px;
     margin-left: 50px;
 }
-.hero-2{
+
+.hero-2 {
     width: 30%;
     position: relative;
     top: -400px;
     left: 650px;
 }
 
-.dis{
+.dis {
     display: inline-block;
     /* background-color: #0066b3; */
     height: 600px;
 }
 
-.hero-2 > img {
+.hero-2>img {
     width: 500px;
-  
+
 }
-.work{
+
+.work {
     width: 80%;
-    color: #898995
-    ;
+    color: #898995;
 }
-.but-3{
+
+.but-3 {
     padding-top: 8px;
-     padding-bottom: 8px;
-     padding-left: 40px;
-     padding-right: 40px;
-     border-radius: 5px;
-   border: none;
-   border: 1px solid #898995;
-   background-color: #eeeeee;
+    padding-bottom: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #898995;
+    background-color: #eeeeee;
+}
+
+.work-2 {
+    text-align: center;
+    /* background-color: #0066b3; */
+}
+
+.body-2>img {
+    background-color: #f0fcdb;
+    /* background-color: aquamarine; */
+
+    width: 180px;
+    height: 170px;
+    padding: 40px;
+    /* padding: 12px; */
+    margin: 10px;
+    margin-left: 15px;
+    /* margin: auto; */
+    border-radius: 20px;
+    /* height: 100px;    */
+
+
+
+}
+
+.body-2 {
+    height: 300px;
+    /* background-color: #0066b3; */
+}
+
+.donate {
+
+    border-radius: 20px;
+    width: 320px;
+    margin: 20px;
+    position: relative;
+    display: flex;
+    /* display: inline-block; */
+/* margin: 40px; */
+    left: 130px;
+/* width: 400px; */
+}
+.donate>img{
+    /* display: flex; */
+    margin: 40px;
+    border-radius: 15px;
+    /* width: 3000px; */
+}
+.donate-1{
+    position: relative;
+    left: 200px;
+    top: -92px;
+    padding-left: 75px;
+    background-color: #8dc63f;
+    padding-right: 75px;
+    border-radius: 10px;
+}
+.donate-2{
+    position: relative;
+    left: 300px;
+    top: -92px;
+    padding-left: 75px;
+    background-color: #8dc63f;
+    padding-right: 75px;
+    border-radius: 10px; 
+}
+.donate-3{
+    position: relative;
+    left: 390px;
+    top: -92px;
+    padding-left: 65px;
+    background-color: #8dc63f;
+    padding-right: 65px;
+    border-radius: 10px; 
 }
